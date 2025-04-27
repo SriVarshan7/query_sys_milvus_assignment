@@ -26,7 +26,7 @@ This is an AI-powered query system that allows users to upload URLs, images, and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/query_sys_milvus_assignment.git
+git clone https://github.com/SriVarshan7/query_sys_milvus_assignment.git
 cd query_sys_milvus_assignment
 ```
 
