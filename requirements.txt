@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymilvus
+sentence-transformers
+requests
+beautifulsoup4
+pillow
+pytesseract
+pdfplumber
+groq
+python-dotenv
+streamlit
+google-generativeai
